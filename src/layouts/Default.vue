@@ -1,15 +1,30 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
+  <div class="Layout">
+    <header class="Layout-header">
+      <nav class="Layout-header-nav">
+        <g-link class="Layout-header-nav-item" to="/">Auditen Courtage</g-link>
+        <g-link class="Layout-header-nav-item" to="/audit/">Audit</g-link>
+        <g-link class="Layout-header-nav-item" to="/gestion-des-risques/"
+          >Gestion des risques
+        </g-link>
+        <g-link class="Layout-header-nav-item" to="/risques-entreprises/">
+          Riquest d'entreprises
+        </g-link>
+        <g-link
+          class="Layout-header-nav-item"
+          to="/questionnaire-construction/"
+        >
+          Garanties Assurances Construction
+        </g-link>
+        <g-link class="Layout-header-nav-item" to="/reglement-europeen/">
+          Assurances des données informatiques
+        </g-link>
+        <g-link class="Layout-header-nav-item" to="/contact/">
+          Contact
+        </g-link>
       </nav>
     </header>
-    <slot/>
+    <slot />
   </div>
 </template>
 
@@ -21,30 +36,34 @@ query {
 }
 </static-query>
 
-<style>
+<style lang="scss">
 body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
   line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6);
 }
 
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.header {
+.Layout {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
-
-.nav__link {
-  margin-left: 20px;
+  flex-direction: column;
+  min-height: 100vh;
+  &-header {
+    &-nav {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      &-item {
+        text-decoration: none;
+        color: rgba(0, 0, 0, 0.6);
+        padding: 1rem;
+        &.active--exact {
+          color: #2ea3f2;
+        }
+      }
+    }
+  }
 }
 </style>
