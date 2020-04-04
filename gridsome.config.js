@@ -6,5 +6,14 @@
 
 module.exports = {
   siteName: "Auditen Courtage",
-  plugins: []
+  plugins: [
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "blog/**/*.md",
+        typeName: "Post",
+        route: "/:title",
+      },
+    },
+  ],
 };
