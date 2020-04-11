@@ -2,7 +2,7 @@
 title: statut-tns-et-loi-madelin
 metainfo: Statut TNS et loi Madelin
 ---
-**Pour les entrepreneurs : Statut TNS et Loi Madelin**
+# Pour les entrepreneurs : Statut TNS et Loi Madelin
 
  
 
@@ -15,7 +15,9 @@ Les cotisations d’un contrat d’assurance prévoyance Madelin sont fiscalemen
 - Respecter les plafonds de déductibilité de cotisations, le disponible fiscal.
 - Souscrire des garanties ouvrant droits à déductibilité. Le déductible fiscal ne peut pas être utilisé pour payer les cotisations de garanties non-déductibles.
 
-**Prévoyance Madelin : comment calculer son disponible fiscal ?**
+
+
+## Prévoyance Madelin : comment calculer son disponible fiscal ?
 
 Le plafond fiscal d’un assuré est commun aux cotisations de son contrat de prévoyance et aux cotisations de son contrat complémentaire santé, sur l’ensemble de l’année.
 
@@ -33,7 +35,9 @@ Ce plafond fiscal est calculé à la fois en fonction du Plafond Annuel de la S�
 
 Dans la limite annuelle de 3% x 8 x 41 136 € = 9 872.64 €, en 2020
 
-**Quelles garanties ouvrent droit à la déductibilité fiscale des cotisations ?**
+
+
+## Quelles garanties ouvrent droit à la déductibilité fiscale des cotisations ?
 
 Les garanties prévoyance hors capital décès ouvrent droit à la déductibilité créée par la Loi Madelin. 
 
@@ -41,7 +45,7 @@ L’assureur précisera les cotisations déductibles et non-déductibles dans so
 
  
 
-**Quel traitement social pour les cotisations prévoyance Madelin ?**
+## Quel traitement social pour les cotisations prévoyance Madelin ?
 
 Les cotisations des contrats de prévoyance Madelin ne sont pas déductibles des charges sociales. Elles restent dues sur les cotisations facultatives Madelin versées par le Travailleur Non Salarié (TNS).
 
@@ -49,7 +53,7 @@ Les cotisations des contrats de prévoyance Madelin ne sont pas déductibles des
 
  
 
-**Utiliser le dispositif Madelin, pourquoi ?**
+## Utiliser le dispositif Madelin, pourquoi ?
 
 Le dispositif Madelin a été créé pour offrir un avantage fiscal aux TNS souscrivant un régime de prévoyance. Il offre une déductibilité des cotisations personnelles pour des garanties qui restent personnelles.
 

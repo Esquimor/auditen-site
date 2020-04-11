@@ -3,9 +3,9 @@ title: le-contrat-de-prevoyance
 metainfo: Le contrat de prévoyance
 ---
 
-**Le contrat de prévoyance…**
+# Le contrat de prévoyance…
 
-**…Une protection indispensable face aux aléas de la vie**
+## …Une protection indispensable face aux aléas de la vie
 
  ![](..\src\assets\aggrement.png)
 
