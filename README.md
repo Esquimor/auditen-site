@@ -1,14 +1,15 @@
-# Default starter for Gridsome
+# Insctruction
 
-This is the project you get when you run `gridsome create new-project`.
+## Local
 
-### 1. Install Gridsome CLI tool if you don't have
+Pour lancer l'application en localhost:
+`gridsome develop`
+Cela lance un serveur en local pour faire les différents changements.
 
-`npm install --global @gridsome/cli`
+## Production
 
-### 2. Create a Gridsome project
+Pour lancer la version de production:
+`gridsome build`
+Cela créer le site web sous le réportoire : ./build
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+Ensuite mettre le contenue du répertoire dans le répertoire ./public_html du serveur o2switch.
