@@ -3,6 +3,8 @@ title: audit
 metainfo: Audit
 ---
 
+![](..\src\assets\audit.png)
+
 # AUDIT
 
 Vous recherchez une économie et vous voulez être sûrs de vos garanties, **AUDITEN COURTAGE** réalise des audits de votre situation d’assurance pour optimiser vos contrats et vos cotisations.
@@ -26,6 +28,8 @@ Notre démarche en cinq étapes :
    - Prévention / protection
    - Mise à jour des valeurs
    - Recommandations sur la mise à jour des contrats et protections contractuelles
+
+![](..\src\assets\problemes.png)
 
 ## Mise en oeuvre
 

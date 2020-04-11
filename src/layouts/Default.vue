@@ -94,7 +94,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .Layout {
@@ -116,7 +116,7 @@ body {
       box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
       &-item {
         text-decoration: none;
-        color: rgba(0, 0, 0, 0.6);
+        color: rgba(0, 0, 0, 0.9);
         padding: 1rem;
         &:hover {
           color: rgba(0, 0, 0, 0.4);

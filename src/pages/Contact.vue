@@ -1,8 +1,9 @@
 <template>
   <Layout>
     <div class="Contact">
-      <h1>Contact</h1>
+      <g-image src="~/assets/contact.png" width="500" />
       <form action="https://formspree.io/mlewgvjb" method="POST" class="Contact-form">
+        <h1>Contact</h1>
         <label class="Contact-form-element">
           <span>Votre nom :</span>
           <input type="text" name="name" placeholder="Nom" />
@@ -37,10 +38,17 @@ export default {
   @media (max-width: 750px) {
     margin: 0 auto;
   }
+  img {
+    margin: 0 auto;
+    display: flex;
+  }
   &-form {
     display: flex;
     flex-direction: column;
-    padding: 0.5rem;
+    padding: 0 0.5rem;
+    margin: 0 auto;
+    justify-content: center;
+    width: 300px;
     &-element {
       display: flex;
       flex-direction: column;

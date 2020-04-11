@@ -2,6 +2,8 @@
 title: questionnaire-construction
 metainfo: L’assurance dommage-ouvrage
 ---
+![](..\src\assets\construction.png)
+
 # L’assurance dommage-ouvrage
 
 La loi oblige le maître d’ouvrage (propriétaire actuel ou futur d’un bâtiment) qui souhaite effectuer des travaux de construction à souscrire une assurance dommages ouvrage avant l’ouverture du chantier.
@@ -88,6 +90,8 @@ L’assuré doit :
 - lui adresser un dossier technique comportant au moins les plans et descriptifs de l’ensemble des travaux effectivement réalisés, dans le délai maximal d’un mois à compter de leur achèvement ;
 - lui notifier, dans le délai maximal d’un mois à compter de leur achèvement, le constat de l’exécution des travaux éventuellement effectués au titre de la garantie de parfait achèvement, ainsi que le relevé des observations ou réserves restées non levées du contrôleur technique ;
 - lui déclarer le coût total de construction définitif.
+
+![](..\src\assets\element.png)
 
 ## La déclaration du sinistre
 

@@ -39,14 +39,14 @@
     </section>
     <IndexItem class="Home-section">
       <template v-slot:image>
-        <g-image src="~/assets/RE1DCLA.jpg" width="500" />
+        <g-image src="~/assets/solution.png" width="500" />
       </template>
       <h2>Solutions</h2>
       <p>AUDITEN COURTAGE vous apporte des services en matière de prévention et protection en gestion des risques et en analyse des sinistres.</p>
     </IndexItem>
     <IndexItem class="Home-section" inverse>
       <template v-slot:image>
-        <g-image src="~/assets/laptop.jpg" width="500" />
+        <g-image src="~/assets/aggrement.png" width="500" />
       </template>
       <h2>A vos côtés</h2>
       <p>Le rôle d’AUDITEN COURTAGE est de vous écouter, de comprendre vos besoins et de vous apporter une solution d'assurance qui sera adaptée et maintenue à votre situation.</p>
@@ -60,7 +60,7 @@
     </IndexItem>
     <IndexItem class="Home-section">
       <template v-slot:image>
-        <g-image src="~/assets/boss.jpg" width="500" />
+        <g-image src="~/assets/expert.png" width="500" />
       </template>
       <h2>Expérience</h2>
       <p>AUDITEN COURTAGE, Professionnel de l'assurance depuis plus de 25 ans, nous vous accompagnons sur vos risques de dommages et d'assurance de personnes.</p>
@@ -140,7 +140,7 @@ export default {
     justify-content: center;
     align-items: center;
     height: 80vh;
-    background-image: url("../assets/auditen-fond.jpg");
+    background-image: url("../assets/auditen-fond.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

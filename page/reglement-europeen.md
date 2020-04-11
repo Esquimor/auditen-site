@@ -3,6 +3,8 @@ title: reglement-europeen
 metainfo: Protection des données
 ---
 
+![](..\src\assets\informatique.png)
+
 # Règlement européen sur la protection des données UE 2016/679
 
 ## Le règlement européen
@@ -32,6 +34,8 @@ En cas de violation des données personnelles, le responsable du traitement doit
 Les associations auront le droit d’engager des recours collectifs contre les entreprises. Toute personne ayant subi un préjudice pourra exiger la réparation du préjudice matériel et moral.
 
 Le non-respect du règlement entraine plusieurs conséquences : des sanctions administratives ; des actions en responsabilité de la part des victimes contre les entreprises dont les données auraient détournées. Et enfin, des pertes financières liées au traitement des atteintes au systèmes de données (sécurisation, révision des accès, sauvegardes, envoi de courriers pour prévenir les personnes…).
+
+![](..\src\assets\judge.png)
 
 ## Les sanctions administratives
 

@@ -34,8 +34,9 @@ export default {
     margin: 0 auto;
   }
   img {
-    width: 100%;
-    max-width: 700px;
+    width: 350px;
+    margin: 0 auto;
+    display: flex;
   }
   table {
     border-spacing: 0;

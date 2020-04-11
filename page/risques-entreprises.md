@@ -3,11 +3,30 @@ title: risques-entreprises
 metainfo: ssurances des Professionnels
 ---
 
+![](..\src\assets\enterprise.png)
+
 # Assurances des Professionnels
 
 Nous intervenons sur tous les risques auxquels une entreprise ou un professionnel est exposé :
 
-![](..\src\assets\Entreprise.png)
+- Employés
+  - Santé Prévoyance
+  - Plan d'épargne entreprise
+- Dirigeant
+  - Santé Prévoyance Retraite
+  - Emprunteur
+  - Responsable mandataire sociaux
+- Activité
+  - Responsabilité civile
+  - Pertes d'exploitations
+  - Protection juridique
+  - Cyberrisque et informatique
+- Biens
+  - Multirisque incendie/bris de machines
+  - Marchandises
+  - Flottes automobiles
+  
+  
 
 ## AUDITEN COURTAGE, votre courtier d’assurances :
 
@@ -17,7 +36,7 @@ Vous propose les meilleures offres de nos partenaires assureurs et les intègre 
 
 **AUDITEN COURTAGE** sera votre partenaire permanent pour que vos assurances soient gérées en toute sérénité.
 
- 
+
 
 ## AUDITEN COURTAGE, votre conseil.
 
@@ -25,7 +44,7 @@ Analyse d’abord votre risque pour déterminer les garanties utiles et les mont
 
 Cherche la meilleure solution sur le marché des assurances en présentant vos risques aux assureurs. Ils peuvent les apprécier au plus juste et selon leurs mérites pour vous donner leur meilleur tarif en tenant compte de votre profil.
 
- 
+ ![](..\src\assets\team.png)
 
 ## AUDITEN COURTAGE, vous accompagne en gestion des risques
 
