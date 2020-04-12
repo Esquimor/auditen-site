@@ -62,3 +62,7 @@ S’il est utile de pouvoir bénéficier du régime Madelin, il faut retenir que
  
 
 Le dispositif Madelin pour les travailleurs non-salariés existe en Santé, Prévoyance et Retraite, avec des conditions particulières pour cette dernière.
+
+
+
+Contactez **AUDITEN COURTAGE** au **04 94 92 63 12** pour plus d’informations.

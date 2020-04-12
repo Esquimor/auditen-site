@@ -22,6 +22,10 @@
           class="Layout-header-nav-item"
           to="/le-contrat-de-prevoyance/"
         >Le contrat de prévoyance</g-link>
+        <g-link
+          class="Layout-header-nav-item"
+          to="/assurance-automobile/"
+        >Assurance Automobile Bonus Malus</g-link>
         <g-link class="Layout-header-nav-item" to="/contact/">Contact</g-link>
       </nav>
 

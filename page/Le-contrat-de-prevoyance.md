@@ -62,3 +62,5 @@ Pour les événements ayant des conséquences majeures dans le temps (décès, i
 La loi Madelin vous permet d’organiser cette protection complémentaire en permettant une prise en charge des cotisations par votre activité professionnelle. 
 
  
+
+Contactez **AUDITEN COURTAGE** au **04 94 92 63 12** pour plus d’informations.

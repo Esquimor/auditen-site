@@ -7,6 +7,8 @@
       </div>
     </div>
     <section class="Home-section">
+
+    <p><strong>AUDITEN COURTAGE</strong> est un courtier indépendant, installé à Toulon. Nous sommes à votre service pour conseiller et vous assister dans la gestion de vos contrats d'assurances et de vos risques.</p>
       <h2>Audit de vos risques</h2>
       <p>Quel que soit votre statut (entreprise, collectivité), nous pouvons vous assister dans l’une des missions suivantes :</p>
       <ol>
