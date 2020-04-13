@@ -57,6 +57,22 @@
               class="Layout-header-nav-item"
               to="/reglement-europeen/"
             >Assurances des données informatiques</g-link>
+            <g-link
+              class="Layout-header-nav-item"
+              to="/statut-tns-et-loi-madelin/"
+            >Statut TNS et Loi Madelin</g-link>
+            <g-link
+              class="Layout-header-nav-item"
+              to="/le-contrat-de-prevoyance/"
+            >Le contrat de prévoyance</g-link>
+            <g-link
+              class="Layout-header-nav-item"
+              to="/assurance-automobile/"
+            >Assurance Automobile Bonus Malus</g-link>
+            <g-link
+              class="Layout-header-nav-item"
+              to="/histoire-assurance/"
+            >Histoire de l'Assurance</g-link>
             <g-link class="Layout-header-nav-item" to="/contact/">Contact</g-link>
           </div>
         </div>
