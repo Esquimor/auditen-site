@@ -26,6 +26,10 @@
           class="Layout-header-nav-item"
           to="/assurance-automobile/"
         >Assurance Automobile Bonus Malus</g-link>
+        <g-link
+          class="Layout-header-nav-item"
+          to="/histoire-assurance/"
+        >Histoire de l'Assurance</g-link>
         <g-link class="Layout-header-nav-item" to="/contact/">Contact</g-link>
       </nav>
 
