@@ -32,11 +32,11 @@ Le contrat de grosse aventure a été utilisé par les Romains, les Byzantins et
 
 Ils sont utilisés en Méditerranée et Mer du Nord / Baltique (ligue Hanséatique).
 
-En 1236, une bulle du pape Grégoire IX *"Naviganti vel eunti ad nundinas"* condamne le prêt à la grosse comme usuraire. Il sera remplacé par les ventes à terme et le contrat d'assurance qui n'utilisent pas la notion d'intérêt et ne violent pas stricto sensu l'interdit religieux même si l'activité financière est considérée avec dédain par de nombreux contemporains. Mais tellement importante déjà qu'il a fallu trouver une solution à cette bulle. Peut-être existait-elle déjà car l'assurance maritime semble surgir très rapidement vers cette époque sous des formes écrites.
+En 1236, une bulle du pape Grégoire IX *"Naviganti vel eunti ad nundinas"* condamne le prêt à la grosse comme usuraire. Il sera remplacé par les ventes à terme et le contrat d'assurance qui n'utilisent pas la notion d'intérêt et ne violent pas stricto sensu l'interdit religieux même si l'activité financière est considérée avec dédain par de nombreux contemporains. Mais tellement importante déjà qu'il a fallu trouver une solution à cette bulle. Peut-être existait-elle déjà car l'assurance maritime semble surgir très rapidement vers cette époque sous des formes écrites, ce qui suppose une utilisation régulière de cette technique. La date de démarrage est inconnue.
 
 A la même époque, l'Europe voit surgir des règles codifiées de droit maritime : Rôles d'Oléron, code de Wisbuy, droit hanséatique, régissant les responsabilités des parties dans le cas des transports maritimes, dans le cas des fortunes de mer et avaries. Les rôles d'Oléron sont toujours incorporés aux droits anglais et US sous forme de référence.
 
-Les premiers contrats d'assurance sous forme écrite apparaissent, dans ce qui est aujourd'hui l'Italie, au XIIIème siècle, Gênes est un centre très important. Ils sont passés devant notaire ou devant un greffier. L'organisation de l'assurance en Méditerranée sera régie par les Consulats de la Mer (1435 - Barcelone). Cette activité est considérée comme une branche du transport maritime, les litiges sont jugés devant ces tribunaux maritimes. Ils suscitent la convoitise des juges consulaires de commerce qui veulent aussi les connaître : à l'époque, les juges étaient rémunérés sur la valeur des litiges portés à leur connaissance.
+Les premiers contrats d'assurance sous forme écrite apparaissent, dans ce qui est aujourd'hui l'Italie, à la fin du XIIIème siècle. Gênes est alors un centre très important pour l'assurance et l'une des places les plus actives dans ce domaine. Les contrats sont rapidement passés devant notaire ou devant un greffier des assurances. L'organisation de l'assurance en Méditerranée sera régie par les Consulats de la Mer (1435 - Barcelone) puis l'ordonnance de 1681. L'assurance est considérée comme une branche du transport maritime, les litiges sont jugés devant ces tribunaux maritimes. Ils suscitent la convoitise des juges consulaires de commerce qui veulent aussi les connaître : à l'époque, les juges étaient rémunérés sur la valeur des litiges portés à leur connaissance (un texte d'un juge consulaire de Bourges explique ces conflits).
 
 L'apparition de ces contrats d'assurance écrits laisse supposer que l'activité devait être pratiquée déjà couramment et que les diverses parties avaient compris que seul l'écrit préalable pouvait éviter bien des querelles. Mais des contrats verbaux ont existé en parallèle, des auteurs récents citent l'existence de contrats d'assurance *au noir* vers 1800, époque où l'activité était proscrite en France.
 
@@ -93,6 +93,8 @@ Le Royaume de France n'étant pas commerçant, c'est surtout chez nos voisins (p
 
 En 1732, création d'une compagnie incendie à Copenhague.
 
+En 1752, Benjamin Franklin créera la première compagnie d'assurance dans les colonies anglaises, elle adopte rapidement des méthodes très modernes pour l'époque : tarifs, réserves, inspection. Seront créées ensuite des sociétés d'assurance perpétuelle contre l'incendie (une dizaine subsistent).
+
 En 1765, Frédéric Le Grand a rendu obligatoire la souscription de contrats contre la peste bovine en Silésie.
 
 A la même époque on crée des sociétés d'inspections des navires pour éviter l'assurance des coques pourries, prétexte à de nombreuses escroqueries et naufrages.
@@ -111,7 +113,11 @@ Mirabeau sera violemment opposé à cette activité, ainsi que d'autres révolut
 
 ![](..\src\assets\undraw_connected_world_wuay.png)
 
-Ces sociétés délivreront des garanties incendie, de pertes de récoltes mais aussi d'accidents (le précurseur des garanties de responsabilité) dès 1830. Le principe de la responsabilité des véhicules sera créé en France vers 1845 avec des jurisprudences sur la faute des voitures et des cochers garantis par des contrats accidents. On utilise alors les manuels d'assurance écrits en Angleterre pour développer cette activité tant en incendie qu'en assurance-vie.
+Ces sociétés délivreront des garanties incendie, de pertes de récoltes mais aussi d'accidents (le précurseur des garanties de responsabilité) dès 1830. Le principe de l'assurance de responsabilité civile, sera créé en France vers 1845 avec la jurisprudence de l'Automédon, suite à un accident de voiture à cheval. La société de voiture était garantie en cas d'accident, sans notion de responsabilité. A l'occasion de ce procès, le contrat accident fût d'abord considéré comme nul puis trouva sa place pour couvrir la responsabilité du voiturier. Cette notion d'assurance de responsabilité a pu être "découverte" en faisant référence aux usages du contrat d'assurance maritime.
+
+On utilise alors les manuels d'assurance écrits en Angleterre pour développer cette activité tant en incendie qu'en assurance-vie. Et on en développe de nouveaux adaptés au droit français.
+
+Les assureurs dans le même temps créent des tarifs pour les risques incendie, grêle... jusqu'au niveau départemental.
 
 Les premières garanties de pertes d'exploitation seront créées aux USA à la fin du XIXème en étendant les garanties de pertes de loyers suite à la destruction d'un immeuble, elles sont vendues sous la forme *gross earnings*. Les garanties pertes d'exploitation européennes seront créées au XXème siècle par un comptable écossais, sous la forme que nous connaissons en France de perte de marge brute ou *gross profit*.  Il semble qu'il y ait eu des tentatives au Moyen-Âge pour garantir les profits sur expédition maritime mais vite arrêtés pour des raisons de très mauvais résultats. Les contraintes sociales de cette époque n'étaient pas prêtes, elles sont adéquates à la fin du XIXème siècle : intégration de règles restreignant l'intérêt personnel, corpus de droit sanctionnant certaines conduites.
 
@@ -123,25 +129,29 @@ Les garanties d'entreprises connaîtront un essor rapide à la fin du XIXème si
 
 
 
-Les XVIIIème et XIXème siècles ont vu un besoin constant d'assurances, entre autre aux USA. Pour y répondre alors, les assureurs anglais font établir des cadastres des principales villes américaines avec localisation des bâtiments, pour souscrire sur le marchés de Londres  des contrats garantissant des biens à Boston, à Charleston... des formes similaires existaient entre le France et ses colonies.
+Les XVIIIème et XIXème siècles ont vu un besoin constant d'assurances, entre autre aux USA. Pour y répondre sans s'implanter dans les colonies, les assureurs anglais font établir des cadastres des principales villes américaines avec localisation des bâtiments, pour souscrire sur le marchés de Londres  des contrats garantissant des biens à Boston, à Charleston... des formes similaires de cartographie existaient entre la France et ses colonies.
 
-On créera aux USA des sociétés d'assurance perpétuelles, toujours existantes, où en contrepartie d'une cotisation initiale assez élevée, le bien est garanti à perpétuité en incendie.
+Le XIXème siècle verra aussi les premières réflexions sur les assurances de risques naturels, elles resteront souvent dans les cartons. Mais au XVIIIème il était déjà possible de s'assurer contre les tirages de loterie infructueux... au XIXème on pouvait s'assurer contre un tirage au sort pour aller au service militaire. Une indemnité était versée pour trouver un remplaçant.
 
-Le XIXème siècle verra aussi les premières réflexions sur les assurances de risques naturels. Mais au XVIIIème il était déjà possible de s'assurer contre les tirages de loterie infructueux...
+Les assurances "fidelity" très développées dans les pays anglo-saxons pour se prémunir contre les détournements ont été créées à cette époque.
+
+le XIXème a été une époque de développement extraordinaire.
 
 
 
-Les premières tentatives d'assurances sur la vie semblent remonter au Moyen-Âge mais se terminent rapidement par une proscription. On peut supposer qu'elle a à la fois une composante religieuse mais aussi une composante sociétale : les meurtres sont fréquents même entre proche et l'existence d'un contrat d'assurances est alors une incitation au crime. Une ordonnance du Duc d'Albe a proscrit les assurances vie en 1570 dans les possessions espagnoles pour mettre fin semble t-il à des abus. Au début du XVIIème siècle en Angleterre, il y aura un procès entre un boulanger et des assureurs. Il avait souscrit un contrat d'assurance sur la vie de sa femme et l'avait tuée quinze jours après. Il réclamait le capital : elle était morte. Les tribunaux ont fini par conclure que le meurtre ne pouvait lui profiter.
+Les premières tentatives d'assurances sur la vie semblent remonter au Moyen-Âge mais se terminent rapidement par une proscription. On peut supposer qu'elle a à la fois une composante religieuse mais aussi une composante sociétale : les meurtres sont fréquents même entre proches et l'existence d'un contrat d'assurances est alors une incitation au crime. Une ordonnance du Duc d'Albe a proscrit les assurances vie en 1570 dans les possessions espagnoles pour mettre fin semble t-il à des abus. Au début du XVIIème siècle en Angleterre, sous Elizabeth I, il y aura un procès entre un boulanger et des assureurs. Il avait souscrit un contrat d'assurance sur la vie de sa femme et l'avait tuée quinze jours après. Il réclamait le capital : elle était morte ! Les tribunaux ont conclu que le meurtre ne pouvait lui profiter. Cet interdit est resté.
 
-Il existe dans le Royaume de France des garanties de rachats de rançons pour les voyageurs pris en captivité par les Turcs ou les Maures à l'occasion d'un pèlerinage : durée maximale 3 ans, avec un capital épuisable en un ou plusieurs rachats de rançons.
+L'assurance vie n'aura pas attendu les probabilités de Pascal pour exister, mais elles lui auront facilité le travail ensuite.
 
-Les garanties d'assurances-vie renaîtront dans les pays du Nord de l'Europe à partir de la fin du XVIème siècle. Elles étaient alors assez largement diffusées dans le royaume anglais et aux Pays-Bas. Charte donnée par la Reine Anne à Amicable Society en 1706.
+On trouve dans le Royaume de France des garanties de rachats de rançons pour les voyageurs pris en captivité par les Turcs ou les Maures à l'occasion d'un pèlerinage : durée maximale 3 ans, avec un capital épuisable en un ou plusieurs rachats de rançons - une garantie d'assistance avant l'heure.
+
+Les garanties d'assurances-vie renaîtront dans les pays du Nord de l'Europe à partir de la fin du XVIème siècle. Elles étaient alors assez largement diffusées dans le royaume anglais et aux Pays-Bas. Charte donnée par la Reine Anne à l'Amicable Society en 1706.
 
 Les premières tables de mortalité datent de la fin du XVIIème siècle, par Edmund Halley, fondées sur des statistiques allemandes.
 
 L'assurance vie mettra le pied en Europe dans les années 1830 via une compagnie hollandaise.
 
-
+Au XIXème l'assurance vie restera risquée en Angleterre pour les assurés ayant souscrit un contrat. En cas de ruine, ils étaient parfois obligés de le vendre et l'acquéreur n'avait pas toujours intérêt à leur survie, conduisant à de nombreuses affaires meurtrières. Ce qui a poussé un assureur à créer les mécanismes de rachat ou de mise en réduction.
 
 Les risques de prévoyance ont été fortement développés en Allemagne par les décisions de Bismarck sur les assurances sociales.
 
@@ -151,50 +161,65 @@ De nos jours les garanties d'assurances sont cesse en développement pour davant
 
 
 
+Il reste à écrire les pages sur l'apport économique de l'assurance au cours des âges. Elle a accompagné toute l'expansion européenne mais c'est un secteur peu exploré des manuels d'histoire.
+
+
+
 Page en construction... il y a bien plus à découvrir. Je vous invite aussi à regarder sur les vieilles façades à la recherche d'une plaque d'assurance (L'Aigle, Le Midi, Le Nord, Le Monde...) pour les traces de cette histoire.
 
 ![](..\src\assets\Midi.png)
 
-**Références :** 
+
+
+Ps : si vous avez une photo d'une plaque LE NORD, je suis preneur. Et toute autre photo de plaque d'assurances.
+
+
+
+**Quelques références :** 
+
+Babbage - A Comparative View of the Various Institutions for the Assurance of Lives (1826)
+
+Capmany - Codigo de las Costumbres Maritimas de Barcelona (1741)
+
+Cleirac - Us et Coutumes de la Mer (1647)
+
+Edmond About - L'assurance (1865)
+
+Emerigon - Traité des Assurances et des contrats à la grosse (1783)
 
 Enrico Bensa - "Il contratto di assicurazione nel medio evo : studi e ricerche" - Le contrat d'assurances au Moyen-Âge (1884)
 
 Georges Hamon - Histoire de l'Assurance (1894)
 
-Edmond About - L'assurance (1865)
+Halley - Annuities upon Lives (1693)
 
-Magens - Essay on assurance (vers 1750 en anglais, auparavant en allemand) - De multiples exemples en maritime, incendie, vie, loterie
-
-Emerigon - Traité des Assurances et des contrats à la grosse (1783)
-
-Pothier - Traité du contrat d'assurances / Traité des contrats aléatoires (1765)
-
-Cleirac - Us et Coutumes de la Mer (1647)
-
-Pardessus - Plusieurs œuvres de  cours de Droit commercial et maritime (vers 1820/1840)
-
-Marshall - Treatise of the Law of Insurance (1802) traduit par Quenaut (1828)
-
-Capmany - Codigo de las Costumbres Maritimas de Barcelona (1741)
-
-Sanborn insurance map collection
-
-Valin - Nouveau commentaire sur l'ordonnance de la Marine (1760)
-
-Robin - Société d'assurances d'assignats (an IV)
+Johan de Witt - Waerdye van lyfrenten naer proportie van losrenten (1671) - Assurance vie
 
 Kean - Address by the Manager of the Scottish Widows' fund and life insurance society (1829)
 
-Halley - Annuities upon Lives (1693)
+Magens - Essay on assurance (vers 1750 en anglais, auparavant en allemand) - De multiples exemples en maritime, incendie, vie, loterie
 
-Ordonnance du Roi portant création d'une mutuelle d'assurance contre la grêle à Dijon, le 25 juillet 1822 (Lois, Décrets, Ordonnances, Réglemens, Avis du Conseil d'Etat - Tome 24, Guyot imprimeur 1836)
-
-Johan de Witt - Waerdye van lyfrenten naer proportie van  losrenten (1671) - Assurance vie
+Marshall - Treatise of the Law of Insurance (1802) traduit par Quenaut (1828)
 
 Nelly - The earliest insurance contract, February 13, 1343, Genoa (1972)
 
-Santarem -  Tractatus de assecurationibus et sponsionibus (1552)  
+Ordonnance du Roi portant création d'une mutuelle d'assurance contre la grêle à Dijon, le 25 juillet 1822 (Lois, Décrets, Ordonnances, Réglemens, Avis du Conseil d'Etat - Tome 24, Guyot imprimeur 1836)
+
+Pagot - Etude sur le contrat d'assurance contre les accidents (1896) - voir la présentation de l'Automédon.
+
+Pardessus - Plusieurs œuvres de cours de Droit commercial et maritime (vers 1820/1840)
+
+Pothier - Traité du contrat d'assurances / Traité des contrats aléatoires (1765)
+
+Robin - Société d'assurances d'assignats (an IV)
+
+Sanborn insurance map collection
+
+Santarem - Tractatus de assecurationibus et sponsionibus (1552) 
 
 Supreme Court of the USA - Références aux règles maritimes anciennes dans décisions modernes (DUTRA GROUP v. BATTERTON - 2018 - voir notes de bas de page - Règle d'Oléron vers 1160)
 
+Valin - Nouveau commentaire sur l'ordonnance de la Marine (1760)
+
 [Hamburg Feuer Kasse - Historique](https://www.provinzial-nordwest.de/content/konzern/konzernstruktur/konzernstruktur_hfk/geschichte/index.html)
+
