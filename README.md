@@ -13,12 +13,12 @@
 2. Lancer Typora
 3. Lancer l'app web en Local dans le terminal de VSC `npm run develop`
 4. Réaliser les changements en local: ajout de page, modification de texte...
-5. Puis faire CTL+C pour terminer le serveur local
+5. Puis faire CTL+C pour terminer le serveur local, taper oui
 6. Compiler l'app pour la production avec `npm run build`
 7. Attendre que l'app soit créée. Elle se trouve dans le dossier [./build](./build)
 8. Lancer Filezilla
-9. Rentrer les identifiants de connexion.
-10. Aller dans le dossier ./public_html du serveur o2switch.
+9. Rentrer les identifiants de connexion. (Ils se trouvent dans .env.local)
+10. Aller dans le dossier ./public_html du serveur o2switch (Site distant).
 11. Supprimer le contenu existant sauf ".. " et ".well-know"
 12. Faire un glisser déposer du contenu de D:/site/dist dans le dossier public_html
 13. Attendre la fin des transferts de fichiers puis aller sur [auditen-courtage](http://auditen-courtage.fr)

@@ -30,6 +30,7 @@
           class="Layout-header-nav-item"
           to="/histoire-assurance/"
         >Histoire de l'Assurance</g-link>
+        <g-link class="Layout-header-nav-item" to="/multirisque-particulier/">Multirisque des particuliers</g-link>
         <g-link class="Layout-header-nav-item" to="/contact/">Contact</g-link>
       </nav>
 
@@ -73,6 +74,7 @@
               class="Layout-header-nav-item"
               to="/histoire-assurance/"
             >Histoire de l'Assurance</g-link>
+            <g-link class="Layout-header-nav-item" to="/multirisque-particulier/">Multirisque des particuliers</g-link>
             <g-link class="Layout-header-nav-item" to="/contact/">Contact</g-link>
           </div>
         </div>

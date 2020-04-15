@@ -18,7 +18,7 @@ L'assurance semble être née du transport, activité qui concentrait des riches
 
 *Code d'Hammourabi :* énonce des principes de compensation face à des pertes liées à des activités commerciales et/ou de transport, ce n'est pas encore de l'assurance mais le principe de protection face à une perte est exprimé.
 
-*Contre de Lacritos (vers -340) :* description du contrat à la grosse, ce n'est pas encore de l'assurance. Ce prêt  est envisagé comme une garantie contre le risque de naufrage : un marchand qui aurait financé lui-même  l'ensemble du voyage perdrait à la fois le navire et sa cargaison. Le  prêt à la grosse aventure permet de faire supporter à un tiers, le  prêteur, le risque sur la valeur de la marchandise et les intérêts du prêt. Dans cas l'emprunteur ne rembourse rien. Les taux d'intérêts pour le prêt maritime sont très élevés (20% à 100%). Ce type de prêt semble exister depuis alors plus d'un millénaire au Proche-Orient, pour des transports terrestres, avec des taux d'intérêts moins élevés.
+*Contre de Lacritos (vers -340) :* description du contrat à la grosse aventure, ce n'est pas encore de l'assurance. Ce prêt  est envisagé comme une garantie contre le risque de naufrage : un marchand qui aurait financé lui-même  l'ensemble du voyage perdrait à la fois le navire et sa cargaison. Le  prêt à la grosse aventure permet de faire supporter à un tiers, le  prêteur, le risque sur la valeur de la marchandise et les intérêts du prêt. Dans cas l'emprunteur ne rembourse rien. Les taux d'intérêts pour le prêt maritime sont très élevés (20% à 100%). Ce type de prêt semble exister depuis alors plus d'un millénaire au Proche-Orient, pour des transports terrestres, avec des taux d'intérêts moins élevés.
 
 *Code maritime de Rhodes :* les habitants de Rhodes inventent la mutualisation. Les marchands dont les biens arrivent à  destination remboursent ceux dont les biens ont été détruits lors d'une  tempête. Ce code a été perdu.
 
@@ -32,7 +32,7 @@ Le contrat de grosse aventure a été utilisé par les Romains, les Byzantins et
 
 Ils sont utilisés en Méditerranée et Mer du Nord / Baltique (ligue Hanséatique).
 
-En 1236, une bulle du pape Grégoire IX *"Naviganti vel eunti ad nundinas"* condamne le prêt à la grosse comme usuraire. Il sera remplacé par les ventes à terme et le contrat d'assurance qui n'utilisent pas la notion d'intérêt et ne violent pas stricto sensu l'interdit religieux même si l'activité financière est considérée avec dédain par de nombreux contemporains. Mais tellement importante déjà qu'il a fallu trouver une solution à cette bulle. Peut-être existait-elle déjà car l'assurance maritime semble surgir très rapidement vers cette époque sous des formes écrites, ce qui suppose une utilisation régulière de cette technique. La date de démarrage est inconnue.
+En 1236, une bulle du pape Grégoire IX *"Naviganti vel eunti ad nundinas"* condamne le prêt à la grosse comme usuraire. Il sera remplacé par les ventes à terme et le contrat d'assurance qui n'utilisent pas la notion d'intérêt et ne violent pas stricto sensu l'interdit religieux même si l'activité financière est considérée avec dédain par de nombreux contemporains. Mais tellement importante déjà qu'il a fallu trouver une solution à cette bulle. Peut-être existait-elle déjà car l'assurance maritime semble surgir très rapidement vers cette époque sous des formes écrites, ce qui suppose une utilisation régulière de cette technique. La date de démarrage est inconnue. Mais on trouve des techniques très développées, voir le contrat ZACCARIA.
 
 A la même époque, l'Europe voit surgir des règles codifiées de droit maritime : Rôles d'Oléron, code de Wisbuy, droit hanséatique, régissant les responsabilités des parties dans le cas des transports maritimes, dans le cas des fortunes de mer et avaries. Les rôles d'Oléron sont toujours incorporés aux droits anglais et US sous forme de référence.
 
@@ -109,11 +109,13 @@ En France, il faudra attendre le règne de Louis XV pour voir la création d'un 
 
 A la fin du règne de Louis XVI, des plaques sont posées sur les maisons assurées (comme en Angleterre). Les premières portent les initiales MACL, maison assurée contre l'incendie. Ce nom sera repris par un assureur au XIXème siècle. Il est perpétué aujourd'hui dans le nom d'une mutuelle (SMACL) même si l'acronyme a une autre signification.
 
-Mirabeau sera violemment opposé à cette activité, ainsi que d'autres révolutionnaires. L'assurance sera mise en suspens pendant la Révolution, comme activité économique néfaste - on était en pleine crise économique et il y avait un doute sur les sociétés par actions qui étaient alors les seuls assureurs hors le domaine maritime, malgré un projet de sauvetage présenté par Robin. L'assurance terrestre ne sera rétablie que 20 ans plus tard, avec une création incessante de compagnies et de mutuelles pendant la Restauration et tout le XIXème siècle.  C'est l'époque où l'assurance envahit le monde et devient telle que nous la connaissons.
+Mirabeau sera violemment opposé à cette activité, ainsi que d'autres révolutionnaires. L'assurance sera mise en suspens pendant la Révolution, comme activité économique néfaste - on était en pleine crise économique et il y avait un doute sur les sociétés par actions qui étaient alors les seuls assureurs présents en France hors le domaine maritime, malgré un projet de sauvetage du marché des assignats présenté par Robin en créant une compagnie d'assurances.
+
+L'assurance terrestre ne sera rétablie que 20 ans plus tard, avec une création incessante de compagnies et de mutuelles pendant la Restauration et tout le XIXème siècle. C'est l'époque où l'assurance envahit le monde et devient telle que nous la connaissons.
 
 ![](..\src\assets\undraw_connected_world_wuay.png)
 
-Ces sociétés délivreront des garanties incendie, de pertes de récoltes mais aussi d'accidents (le précurseur des garanties de responsabilité) dès 1830. Le principe de l'assurance de responsabilité civile, sera créé en France vers 1845 avec la jurisprudence de l'Automédon, suite à un accident de voiture à cheval. La société de voiture était garantie en cas d'accident, sans notion de responsabilité. A l'occasion de ce procès, le contrat accident fût d'abord considéré comme nul puis trouva sa place pour couvrir la responsabilité du voiturier. Cette notion d'assurance de responsabilité a pu être "découverte" en faisant référence aux usages du contrat d'assurance maritime.
+Ces sociétés délivreront des garanties incendie, de grêle ou de pertes de récoltes mais aussi d'accidents  dès 1830, puis de caution, de prévoyance, de vie.... Le principe de l'assurance de responsabilité civile, sera créé en France vers 1845 avec la jurisprudence de l'Automédon, suite à un accident de voiture à cheval qui transformera cette assurance en une protection des consommateurs de l'assuré : La société de voiture était garantie en cas d'accident, sans notion de responsabilité. A l'occasion de ce procès, le contrat accident fût d'abord considéré comme nul comme contraires aux lois et mœurs, puis trouva sa place pour couvrir la responsabilité du voiturier. Cette notion d'assurance de responsabilité a pu être "découverte" en faisant référence aux usages du contrat d'assurance maritime, ce qui a permis de revenir sur l'annulation de ce type de contrat.
 
 On utilise alors les manuels d'assurance écrits en Angleterre pour développer cette activité tant en incendie qu'en assurance-vie. Et on en développe de nouveaux adaptés au droit français.
 
@@ -123,19 +125,19 @@ Les premières garanties de pertes d'exploitation seront créées aux USA à la 
 
 Les garanties bris de machines seront créées en Allemagne au début du XXème siècle.
 
-Il y avait jusqu'au début du XXème siècle des garanties d'assurance sur les pertes de meules de foin en plein champ, des garanties sur les vers à soie, une tentative de garantie contre le Phylloxéra, des garanties sur les échafaudages qui tombent, les accidents de train, des projets d'assurances sociales, de garanties obligatoires... une caricature de Daumier exprime cet engouement extraordinaire ainsi que les multiples dérives qui existait.
+Il y avait jusqu'au début du XXème siècle des garanties d'assurance sur les pertes de meules de foin en plein champ, des garanties sur les vers à soie, une tentative de garantie contre le Phylloxéra, des garanties sur les échafaudages qui tombent, les accidents de train, des projets d'assurances sociales, de garanties obligatoires... une caricature de Daumier *Le Gobe-Mouches* exprime cet engouement extraordinaire ainsi que les multiples dérives qui existaient.
 
 Les garanties d'entreprises connaîtront un essor rapide à la fin du XIXème siècle, soit par des offres développées par des sociétés d'assurances incendie ou par création de mutuelles professionnelles.
 
 
 
-Les XVIIIème et XIXème siècles ont vu un besoin constant d'assurances, entre autre aux USA. Pour y répondre sans s'implanter dans les colonies, les assureurs anglais font établir des cadastres des principales villes américaines avec localisation des bâtiments, pour souscrire sur le marchés de Londres  des contrats garantissant des biens à Boston, à Charleston... des formes similaires de cartographie existaient entre la France et ses colonies.
+Les XVIIIème et XIXème siècles ont vu un besoin constant d'assurances, entre autre aux USA. Pour y répondre sans s'implanter dans les colonies, les assureurs anglais font établir des cadastres des principales villes américaines avec localisation des bâtiments, pour souscrire depuis Londres  des contrats garantissant des biens à Boston, à Charleston... des formes similaires de cartographie d'assurance existaient entre la France et ses colonies.
 
 Le XIXème siècle verra aussi les premières réflexions sur les assurances de risques naturels, elles resteront souvent dans les cartons. Mais au XVIIIème il était déjà possible de s'assurer contre les tirages de loterie infructueux... au XIXème on pouvait s'assurer contre un tirage au sort pour aller au service militaire. Une indemnité était versée pour trouver un remplaçant.
 
-Les assurances "fidelity" très développées dans les pays anglo-saxons pour se prémunir contre les détournements ont été créées à cette époque.
+Les assurances "fidelity" très développées dans les pays anglo-saxons pour se prémunir contre les détournements en entreprise ont été créées à cette époque.
 
-le XIXème a été une époque de développement extraordinaire.
+
 
 
 
@@ -157,7 +159,7 @@ Les risques de prévoyance ont été fortement développés en Allemagne par les
 
 
 
-De nos jours les garanties d'assurances sont cesse en développement pour davantage de protection. Nous n'en avons pas toujours le sentiment, mais en France nous disposons d'un des marchés les plus développés.
+De nos jours les garanties d'assurances sont sans cesse en développement pour davantage de protection. Nous n'en avons pas toujours le sentiment, mais en France nous disposons d'un des marchés les plus développés.
 
 
 
@@ -211,6 +213,8 @@ Pardessus - Plusieurs œuvres de cours de Droit commercial et maritime (vers 182
 
 Pothier - Traité du contrat d'assurances / Traité des contrats aléatoires (1765)
 
+Reatz - Ordonnances du duc d'Albe sur les assurances maritimes de 1569, 1570, 1571, avec un précis de l'histoire du droit d'assurance maritime dans les Pays-Bas (1878)
+
 Robin - Société d'assurances d'assignats (an IV)
 
 Sanborn insurance map collection
@@ -222,4 +226,18 @@ Supreme Court of the USA - Références aux règles maritimes anciennes dans dé
 Valin - Nouveau commentaire sur l'ordonnance de la Marine (1760)
 
 [Hamburg Feuer Kasse - Historique](https://www.provinzial-nordwest.de/content/konzern/konzernstruktur/konzernstruktur_hfk/geschichte/index.html)
+
+
+
+plus récemment :
+
+Bellenger : Histoire de l'assurance de dommages en France (Thèse doctorat 2011)
+
+Broussy : Histoire du contrat d'assurance (XVI-XXe siècles) (Thèse doctorat 2016)
+
+Rodet-Profit : Le contrat d'assurance maritime à Rouen dans l'ancien droit (Thèse doctorat 2015)
+
+
+
+Sont disponibles aussi des thèses de doctorat sur la mutualité
 

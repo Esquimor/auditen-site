@@ -1,6 +1,6 @@
 ---
 title: risques-entreprises
-metainfo: ssurances des Professionnels
+metainfo: assurances des Professionnels
 ---
 
 ![](..\src\assets\enterprise.png)
@@ -64,6 +64,6 @@ Nous vous proposons des méthodes éprouvées pour améliorer la prévention et 
 
 La gestion des risques est une démarche permanente à laquelle nous nous associons pour fixer en commun des objectifs et vérifier qu’ils sont atteints ou les mesures suivies. Selon la nature des risques et les besoins techniques, nous vous mettons en relation avec des partenaires spécialisés (gestion de crise, analyse récurrente des démarches de sécurité dans des établissements soumis à réglementation, lutte contre la fraude…).
 
- 
+ ![](..\src\assets\Entreprise.png)
 
-Contactez AUDITEN COURTAGE au **04 94 92 63 12** pour plus d’informations.
+Contactez **AUDITEN COURTAGE** au **04 94 92 63 12** pour plus d’informations.
