@@ -1,6 +1,6 @@
 <template>
   <div class="Layout">
-    <header class="Layout-header" @click="showMenu = !showMenu">
+    <header class="Layout-header" @click="clickMenu">
       <g-image src="~/assets/menu-mobile.png" width="20px" />
       <span>Menu</span>
     </header>
@@ -99,6 +99,12 @@ export default {
       showMenu: true,
       showMenuMobile: false
     };
+  },
+  methods: {
+    clickMenu() {
+      this.showMenu = !showMenu;
+      this.showMenuMobile = !showMenuMobile;
+    }
   }
 };
 </script>
