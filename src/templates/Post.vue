@@ -46,6 +46,7 @@ export default {
         th {
           background-color: #777;
           color: white;
+          padding: 0.5rem;
         }
       }
     }
@@ -53,6 +54,7 @@ export default {
       tr {
         td {
           padding: 0.25rem;
+          padding: 0.5rem;
         }
       }
     }
