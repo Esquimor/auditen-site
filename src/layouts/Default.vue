@@ -1,62 +1,84 @@
 <template>
   <div class="Layout">
-    <header class="Layout-header" @click="showMenu = !showMenu">
+    <header class="Layout-header" @click="clickMenu">
       <g-image src="~/assets/menu-mobile.png" width="20px" />
       <span>Menu</span>
     </header>
     <div class="Layout-center">
-      <nav v-if="showMenu" class="Layout-nav Layout-desktop">
+      <nav class="Layout-nav Layout-desktop">
         <g-link class="Layout-nav-item" to="/">Auditen Courtage</g-link>
         <g-link class="Layout-nav-item" to="/audit/">Audit</g-link>
-        <g-link class="Layout-nav-item" to="/gestion-des-risques/">Gestion des risques</g-link>
-        <g-link class="Layout-nav-item" to="/risques-entreprises/">Risques d'entreprises</g-link>
-        <g-link
-          class="Layout-nav-item"
-          to="/questionnaire-construction/"
-        >Garanties Assurances Construction</g-link>
-        <g-link
-          class="Layout-nav-item"
-          to="/reglement-europeen/"
-        >Assurances des données informatiques</g-link>
-        <g-link class="Layout-nav-item" to="/statut-tns-et-loi-madelin/">Statut TNS et Loi Madelin</g-link>
-        <g-link class="Layout-nav-item" to="/le-contrat-de-prevoyance/">Le contrat de prévoyance</g-link>
-        <g-link class="Layout-nav-item" to="/assurance-automobile/">Assurance Automobile Bonus Malus</g-link>
-        <g-link class="Layout-nav-item" to="/histoire-assurance/">Histoire de l'Assurance</g-link>
-        <g-link class="Layout-nav-item" to="/multirisque-particulier/">Multirisque des particuliers</g-link>
+        <g-link class="Layout-nav-item" to="/gestion-des-risques/"
+          >Gestion des risques</g-link
+        >
+        <g-link class="Layout-nav-item" to="/risques-entreprises/"
+          >Risques d'entreprises</g-link
+        >
+        <g-link class="Layout-nav-item" to="/questionnaire-construction/"
+          >Garanties Assurances Construction</g-link
+        >
+        <g-link class="Layout-nav-item" to="/reglement-europeen/"
+          >Assurances des données informatiques</g-link
+        >
+        <g-link class="Layout-nav-item" to="/statut-tns-et-loi-madelin/"
+          >Statut TNS et Loi Madelin</g-link
+        >
+        <g-link class="Layout-nav-item" to="/le-contrat-de-prevoyance/"
+          >Le contrat de prévoyance</g-link
+        >
+        <g-link class="Layout-nav-item" to="/assurance-automobile/"
+          >Assurance Automobile Bonus Malus</g-link
+        >
+        <g-link class="Layout-nav-item" to="/histoire-assurance/"
+          >Histoire de l'Assurance</g-link
+        >
+        <g-link class="Layout-nav-item" to="/multirisque-particulier/"
+          >Multirisque des particuliers</g-link
+        >
         <g-link class="Layout-nav-item" to="/contact/">Contact</g-link>
       </nav>
-      <div v-if="showMenuMobile" class="Layout-mobile" @click="showMenuMobile = false">
+      <div
+        v-if="showMenuMobile"
+        class="Layout-mobile"
+        @click="showMenuMobile = false"
+      >
         <div class="Layout-mobile-bk" />
         <nav class="Layout-mobile-nav Layout-desktop">
-          <g-link class="Layout-mobile-nav-item" to="/">Auditen Courtage</g-link>
+          <g-link class="Layout-mobile-nav-item" to="/"
+            >Auditen Courtage</g-link
+          >
           <g-link class="Layout-mobile-nav-item" to="/audit/">Audit</g-link>
-          <g-link class="Layout-mobile-nav-item" to="/gestion-des-risques/">Gestion des risques</g-link>
-          <g-link class="Layout-mobile-nav-item" to="/risques-entreprises/">Risques d'entreprises</g-link>
+          <g-link class="Layout-mobile-nav-item" to="/gestion-des-risques/"
+            >Gestion des risques</g-link
+          >
+          <g-link class="Layout-mobile-nav-item" to="/risques-entreprises/"
+            >Risques d'entreprises</g-link
+          >
           <g-link
             class="Layout-mobile-nav-item"
             to="/questionnaire-construction/"
-          >Garanties Assurances Construction</g-link>
-          <g-link
-            class="Layout-mobile-nav-item"
-            to="/reglement-europeen/"
-          >Assurances des données informatiques</g-link>
+            >Garanties Assurances Construction</g-link
+          >
+          <g-link class="Layout-mobile-nav-item" to="/reglement-europeen/"
+            >Assurances des données informatiques</g-link
+          >
           <g-link
             class="Layout-mobile-nav-item"
             to="/statut-tns-et-loi-madelin/"
-          >Statut TNS et Loi Madelin</g-link>
-          <g-link
-            class="Layout-mobile-nav-item"
-            to="/le-contrat-de-prevoyance/"
-          >Le contrat de prévoyance</g-link>
-          <g-link
-            class="Layout-mobile-nav-item"
-            to="/assurance-automobile/"
-          >Assurance Automobile Bonus Malus</g-link>
-          <g-link class="Layout-mobile-nav-item" to="/histoire-assurance/">Histoire de l'Assurance</g-link>
-          <g-link
-            class="Layout-mobile-nav-item"
-            to="/multirisque-particulier/"
-          >Multirisque des particuliers</g-link>
+            >Statut TNS et Loi Madelin</g-link
+          >
+          <g-link class="Layout-mobile-nav-item" to="/le-contrat-de-prevoyance/"
+            >Le contrat de prévoyance</g-link
+          >
+          <g-link class="Layout-mobile-nav-item" to="/assurance-automobile/"
+            >Assurance Automobile Bonus Malus</g-link
+          >
+          <g-link class="Layout-mobile-nav-item" to="/histoire-assurance/"
+            >Histoire de l'Assurance</g-link
+          >
+          <g-link class="Layout-mobile-nav-item" to="/multirisque-particulier/"
+            >Multirisque des particuliers</g-link
+          >
           <g-link class="Layout-mobile-nav-item" to="/contact/">Contact</g-link>
         </nav>
       </div>
@@ -67,9 +89,7 @@
     <footer class="Layout-footer">
       <div>
         AUDITEN COURTAGE
-        <br />4, Place Louis Blanc
-        <br />83000 TOULON
-        <br />Tél : 04 94 92 63 12
+        <br />4, Place Louis Blanc <br />83000 TOULON <br />Tél : 04 94 92 63 12
         <br />conseils(at)auditen-courtage.fr
       </div>
       <div class="Layout-footer-info">
@@ -96,10 +116,14 @@ export default {
   name: "Layout",
   data() {
     return {
-      showMenu: true,
-      showMenuMobile: false
+      showMenuMobile: false,
     };
-  }
+  },
+  methods: {
+    clickMenu() {
+      this.showMenuMobile = !this.showMenuMobile;
+    },
+  },
 };
 </script>
 
