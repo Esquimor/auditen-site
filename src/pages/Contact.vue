@@ -55,8 +55,24 @@ export default {
 
 <style lang="scss">
 #map {
-  margin-top: 2rem;
   height: 300px;
+  margin: 2rem auto 0;
+
+  @media (max-width: 750px) {
+    width: 600px;
+  }
+  @media (max-width: 650px) {
+    width: 500px;
+  }
+  @media (max-width: 550px) {
+    width: 400px;
+  }
+  @media (max-width: 450px) {
+    width: 300px;
+  }
+  @media (max-width: 350px) {
+    width: 200px;
+  }
 }
 
 .Contact {
