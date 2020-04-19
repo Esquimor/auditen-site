@@ -195,6 +195,8 @@ Georges Hamon - Histoire de l'Assurance (1894)
 
 Halley - Annuities upon Lives (1693)
 
+Houis - La Mutualité et les sociétés de secours mutuels (1907)
+
 Johan de Witt - Waerdye van lyfrenten naer proportie van losrenten (1671) - Assurance vie
 
 Kean - Address by the Manager of the Scottish Widows' fund and life insurance society (1829)
@@ -239,5 +241,23 @@ Rodet-Profit : Le contrat d'assurance maritime à Rouen dans l'ancien droit (Th�
 
 
 
-Sont disponibles aussi des thèses de doctorat sur la mutualité
+Autres ressources
+
+Italie : 
+
+​	Fondation Mansutti https://www.storiadelleassicurazioni.com/
+
+​	Musée Reale Mutua (Turin) https://www.realemutua.it/scopri-reale-mutua/il-museo-storico
+
+Chine :
+
+​	Musée de Ningbo http://ningbo.chinadaily.com.cn/2019-01/16/c_316813.htm
+
+Pays baltes : https://www.if.ee/en/ifist/meist/kindlustuse-muuseum
+
+France : Musée national de l'Assurance-maladie, https://www.musee-assurance-maladie.fr/
+
+
+
+Réassurance : https://www.swissre.com/search-page.html?searchterm=A+History+of+Insurance
 
