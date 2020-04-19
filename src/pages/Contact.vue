@@ -26,14 +26,12 @@
 <script>
 "use strict";
 
-import { latLng } from "leaflet";
-
 export default {
   name: "Contact",
   metaInfo: {
     title: "Contact",
   },
-  mounted() {
+  mounted() {if (process.isClient) {
     let map = L.map("map").setView([43.1198955, 5.934253], 20);
 
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -42,13 +40,14 @@ export default {
     }).addTo(map);
 
     let Icon = L.icon({
-      iconUrl: require("@/assets/marker.svg"),
+      iconUrl: require("@/assets/marker.png"),
 
       iconSize: [25, 40], // size of the icon
       iconAnchor: [22, 40], // point of the icon which will correspond to marker's location
     });
 
     L.marker([43.1198975, 5.934293], { icon: Icon }).addTo(map);
+}
   },
 };
 </script>
