@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "@gridsome/cli": "^0.3.1",
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "leaflet": "^1.6.0",
+    "vue2-leaflet": "^2.5.2"
   },
   "devDependencies": {
     "@gridsome/source-filesystem": "^0.6.2",

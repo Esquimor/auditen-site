@@ -2,7 +2,11 @@
   <Layout>
     <div class="Contact">
       <g-image src="~/assets/contact.png" width="500" />
-      <form action="https://formspree.io/mlewgvjb" method="POST" class="Contact-form">
+      <form
+        action="https://formspree.io/mlewgvjb"
+        method="POST"
+        class="Contact-form"
+      >
         <h1>Contact</h1>
         <label class="Contact-form-element">
           <span>Votre nom :</span>
@@ -14,6 +18,7 @@
         </label>
         <input class="Contact-form-button" type="submit" value="Envoyer" />
       </form>
+      <div id="map"></div>
     </div>
   </Layout>
 </template>
@@ -21,15 +26,39 @@
 <script>
 "use strict";
 
+import { latLng } from "leaflet";
+
 export default {
   name: "Contact",
   metaInfo: {
-    title: "Contact"
-  }
+    title: "Contact",
+  },
+  mounted() {
+    let map = L.map("map").setView([43.1198955, 5.934253], 20);
+
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(map);
+
+    let Icon = L.icon({
+      iconUrl: require("@/assets/marker.svg"),
+
+      iconSize: [25, 40], // size of the icon
+      iconAnchor: [22, 40], // point of the icon which will correspond to marker's location
+    });
+
+    L.marker([43.1198975, 5.934293], { icon: Icon }).addTo(map);
+  },
 };
 </script>
 
 <style lang="scss">
+#map {
+  margin-top: 2rem;
+  height: 300px;
+}
+
 .Contact {
   width: calc(100% - 1rem);
   max-width: 700px;
