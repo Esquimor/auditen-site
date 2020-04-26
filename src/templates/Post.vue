@@ -1,6 +1,7 @@
 <template>
   <Layout>
     <div class="Post" v-html="$page.post.content" />
+    <div class="Post-pdf"><a v-if="!!$page.post.pdf" :href="linkPdf" download>{{ $page.post.pdfName }}</a></div>
   </Layout>
 </template>
 
@@ -10,6 +11,8 @@ query Post ($path: String!) {
     title
     content
     metainfo
+    pdf
+    pdfName
   }
 }
 </page-query>
@@ -20,6 +23,12 @@ export default {
     return {
       title: this.$page.post.metainfo
     };
+  },
+  computed: {
+    linkPdf() {
+      if (!this.$page || !this.$page.post || !this.$page.post.pdf) return ""
+      return `/${this.$page.post.pdf}`
+    }
   }
 };
 </script>
@@ -57,6 +66,19 @@ export default {
           padding: 0.5rem;
         }
       }
+    }
+  }
+  &-pdf {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0; 
+    > a {
+      cursor: pointer;
+      padding: 0.5rem 1rem;
+      background-color: #1565c0;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
     }
   }
 }
