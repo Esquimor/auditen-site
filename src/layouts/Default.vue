@@ -35,6 +35,9 @@
         <g-link class="Layout-nav-item" to="/multirisque-particulier/"
           >Multirisque des particuliers</g-link
         >
+        <g-link class="Layout-nav-item" to="/assurance-mono-auto/"
+          >Assurances automobiles</g-link
+        >
         <g-link class="Layout-nav-item" to="/contact/">Contact</g-link>
       </nav>
       <div

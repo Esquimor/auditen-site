@@ -5,7 +5,6 @@ metainfo: Assurance MRH multirisque habitation particuliers responsabilité prot
 # Assurance multirisque des particuliers
 
 
-
 ![](..\src\assets\Ville.png)
 
 Ce nom désigne un produit d'assurance destiné à une personne physique dans le cadre non-professionnel. Attention, ces contrats ne prévoient pas, généralement, les activités des employés de l'assuré à son domicile. Il comprend plusieurs volets de garantie :
@@ -50,7 +49,7 @@ avec des options : vol, vandalisme (dommages immobiliers et mobiliers),  vols ob
 
 C'est à l'assuré de définir les capitaux à garantir : contenu total de la maison, dont objets précieux et éventuellement cave à vin.
 
-![](..\src\assets\Famille.png)
+
 
 ## Les frais et pertes
 
@@ -95,7 +94,7 @@ L'assuré est libre du choix de son avocat : l'assureur de protection juridique 
 
 Cette garantie est obligatoirement couverte par un contrat séparé même si elle est vendue en inclusion du contrat multirisque.
 
-![](..\src\assets\Contrat_MRH.png)
+
 
 ## Les garanties d'assistance
 
@@ -115,7 +114,7 @@ De très nombreux contrat multirisques accordent cette extension qui peut être 
 
 Elle remplit à l'obligation d'assurance pour les blessures subies par les enfants lors de sortie.
 
-![](..\src\assets\back_to_school.png)
+
 
 ## Obligations d'assurances et contrats multirisques des particuliers
 
@@ -123,12 +122,12 @@ Les contrats d'assurance multirisques des particuliers permettent de remplir plu
 
 - Les locataires ont une obligation d'assurance multirisque couvrant au moins leur responsabilité vis-à-vis du propriétaire (loi de 1989). Les propriétaires d'un logement loué situé dans une copropriété ont une obligation d'assurance. Les copropriétaires, occupants ou non, sont tenus de s'assurer en responsabilité civile (loi de 2014).
 
-- Le locataire en meublé doit répondre à l'obligation d'assurance (loi de 2014).
-- Le locataire saisonnier n'est pas tenu d'une obligation d'assurance, sauf demande du bailleur. C'est la garantie villégiature de son contrat personnel qui lui accordera cette garantie.
-- Le locataire principal est tenu de s'assurer même en présence d'un contrat de sous-location.
-- Les colocataires doivent être couverts soit par un contrat pour compte prévu au bail, soit être assurés individuellement et dans ce cas ils peuvent s'opposer à l'assurance pour compte (loi de 2014).
-- L'obligation d'assurance pour les chiens dangereux, peut être satisfaite par extension d'un contrat multirisque.
-- l'obligation d'assurance de responsabilité civile des enfants scolarisés est incluse dans la responsabilité civile. La garantie individuelle-accidents des enfants doit être demandée.
+* Le locataire en meublé doit répondre à l'obligation d'assurance (loi de 2014).
+* Le locataire saisonnier n'est pas tenu d'une obligation d'assurance, sauf demande du bailleur. C'est la garantie villégiature de son contrat personnel qui lui accordera cette garantie.
+* Le locataire principal est tenu de s'assurer même en présence d'un contrat de sous-location.
+* Les colocataires doivent être couverts soit par un contrat pour compte prévu au bail, soit être assurés individuellement et dans ce cas ils peuvent s'opposer à l'assurance pour compte (loi de 2014).
+* L'obligation d'assurance pour les chiens dangereux, peut être satisfaite par extension d'un contrat multirisque.
+* l'obligation d'assurance de responsabilité civile des enfants scolarisés est incluse dans la responsabilité civile. La garantie individuelle-accidents des enfants doit être demandée.
 
 - L'obligation d'assurance des assistantes maternelles peut être couverte, si elle est portée à la connaissance de l'assureur.
 
@@ -136,4 +135,4 @@ Les autres obligations d'assurance échéant aux particuliers sont couvertes par
 
 
 
-Contactez **AUDITEN COURTAGE** au **04 94 92 63 12** pour plus d’informations.
+Pour plus d’informations, contactez-vous au **04 94 92 63 12**.

@@ -94,3 +94,12 @@ Ensuite, on click en bas à droite sur cette icon:
 Si la flèche est vers le haut, la version n'est pas poussé vers le serveur.
 
 Si la flèche est vers le bas, une nouvelle version sur le serveur n'est pas synchroniser avec le PC. 
+
+## Ajouter le pdf à la page
+
+Ajouter dans les meta-données des pages post:
+
+pdf: LienVersPdf.pdf
+pdfName: NomBoutonPdf
+
+Mettre le pdf dans le dossier: ./static
