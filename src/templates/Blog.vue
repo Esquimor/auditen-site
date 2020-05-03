@@ -1,22 +1,14 @@
 <template>
   <Layout>
-    <div class="Post" v-html="$page.post.content" />
-    <div class="Post-pdf">
-      <a v-if="!!$page.post.pdf" :href="linkPdf" target="_blank">{{
-        $page.post.pdfName
-      }}</a>
-    </div>
+    <div class="BlogPage" v-html="$page.blog.content" />
   </Layout>
 </template>
 
 <page-query>
-query Post ($path: String!) {
-  post: post (path: $path) {
+query Blog ($path: String!) {
+  blog: blog (path: $path) {
     title
     content
-    metainfo
-    pdf
-    pdfName
   }
 }
 </page-query>
@@ -25,20 +17,14 @@ query Post ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: this.$page.post.metainfo,
+      title: this.$page.blog.metainfo,
     };
-  },
-  computed: {
-    linkPdf() {
-      if (!this.$page || !this.$page.post || !this.$page.post.pdf) return "";
-      return `/${this.$page.post.pdf}`;
-    },
   },
 };
 </script>
 
 <style lang="scss">
-.Post {
+.BlogPage {
   width: calc(100% - 1rem);
   max-width: 700px;
   margin: 1rem auto;
@@ -79,19 +65,6 @@ export default {
           padding: 0.5rem;
         }
       }
-    }
-  }
-  &-pdf {
-    display: flex;
-    justify-content: center;
-    margin: 2rem 0;
-    > a {
-      cursor: pointer;
-      padding: 0.5rem 1rem;
-      background-color: #1565c0;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
     }
   }
 }

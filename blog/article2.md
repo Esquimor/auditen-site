@@ -1,7 +1,7 @@
 ---
-title: article
-date: 2020-06-19
-description: Une courte description
+title: article2
+date: 2020-05-19
+description: Une description super courte
 ---
 
 # An article

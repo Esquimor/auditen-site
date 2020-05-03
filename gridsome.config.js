@@ -15,5 +15,13 @@ module.exports = {
         route: "/:title/",
       },
     },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "blog/**/*.md",
+        typeName: "Blog",
+        route: "/blog/:title/",
+      },
+    },
   ],
 };
