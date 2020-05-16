@@ -1,9 +1,0 @@
----
-title: article
-date: 2020-06-19
-description: Une courte description
----
-
-# An article
-
-This is some **awesome** content for a crazy sample blogdzdz
